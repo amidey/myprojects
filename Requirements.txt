@@ -1,1 +1,2 @@
 This is a chat application.
+Day2 - Added new features. 
